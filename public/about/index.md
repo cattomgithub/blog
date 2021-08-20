@@ -41,7 +41,7 @@ Hello 👋 , 我是 Cat Tom
 我现在最感兴趣的是运维，可我不太熟悉运维的成长路线...
 
 ## 兴趣 & 爱好
-兴趣广泛，爱好繁多。
+> 兴趣广泛，爱好繁多。
 
 ### 音乐
 <a href="https://music.163.com/#/user/home?id=303081377"><i class="fas fa-compact-disc"></i> 网易云音乐</a>
