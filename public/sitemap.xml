@@ -1,0 +1,20 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://blog.cattom.site/about/</loc><lastmod>2021-08-14T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/refresh-dns-cache/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/categories/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/tags/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/categories/tech/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E6%95%99%E7%A8%8B/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/posts/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/fix-no-sound-realtek-alc294/</loc><lastmod>2021-08-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://blog.cattom.site/tags/azure/</loc><lastmod>2021-07-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://blog.cattom.site/move-to-azure/</loc><lastmod>2021-07-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E6%90%AC%E5%AE%B6/</loc><lastmod>2021-07-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://blog.cattom.site/categories/daily/</loc><lastmod>2020-02-08T22:28:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/hello-world/</loc><lastmod>2020-02-08T22:28:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

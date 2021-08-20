@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>教程 - 标签 - Cat Tom&#39;s Blog</title>
+        <link>https://blog.cattom.site/tags/%E6%95%99%E7%A8%8B/</link>
+        <description>教程 - 标签 - Cat Tom&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>linweijie2015@gmail.com (Cat Tom)</managingEditor>
+            <webMaster>linweijie2015@gmail.com (Cat Tom)</webMaster><lastBuildDate>Thu, 05 Aug 2021 17:13:40 &#43;0800</lastBuildDate><atom:link href="https://blog.cattom.site/tags/%E6%95%99%E7%A8%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>[Ubuntu 20.04]刷新 DNS 缓存</title>
+    <link>https://blog.cattom.site/refresh-dns-cache/</link>
+    <pubDate>Thu, 05 Aug 2021 17:13:40 &#43;0800</pubDate><author>
+        <name>Cat Tom</name>
+    </author><guid>https://blog.cattom.site/refresh-dns-cache/</guid>
+    <description><![CDATA[Ubuntu 20.04 刷新 DNS 缓存方法。]]></description>
+</item><item>
+    <title>[Ubuntu 20.04]Realtek ALC294无声音解决</title>
+    <link>https://blog.cattom.site/fix-no-sound-realtek-alc294/</link>
+    <pubDate>Wed, 04 Aug 2021 00:00:00 &#43;0000</pubDate><author>
+        <name>Cat Tom</name>
+    </author><guid>https://blog.cattom.site/fix-no-sound-realtek-alc294/</guid>
+    <description><![CDATA[Realtek ALC294 声卡在 Ubuntu 20.04 下外放/耳机无声音的解决方案。]]></description>
+</item></channel>
+</rss>
