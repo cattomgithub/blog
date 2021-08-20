@@ -14,7 +14,7 @@ theme = "DoIt"
   [[menu.main]]
     identifier = "posts"
     # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-    pre = ""
+    pre = "<i class='fas fa-book'></i>"
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
     name = "时光轴"
@@ -24,7 +24,7 @@ theme = "DoIt"
     weight = 1
   [[menu.main]]
     identifier = "tech"
-    pre = ""
+    pre = "<i class='fas fa-tools'></i>"
     post = ""
     name = "技术"
     url = "/categories/tech"
@@ -32,7 +32,7 @@ theme = "DoIt"
     weight = 2
   [[menu.main]]
     identifier = "daily"
-    pre = ""
+    pre = "<svg t='1629472018710' class='icon' viewBox='0 0 1024 1024' version='1.1' xmlns='http://www.w3.org/2000/svg' p-id='2024' width='20' height='20'><path d='M853.36 85.32H256.11c-23.47 0-42.66 19.2-42.66 42.66h-42.66c-23.47 0-42.66 19.2-42.66 42.66s19.2 42.66 42.66 42.66h42.66v85.32h-42.66c-23.47 0-42.66 19.2-42.66 42.66s19.2 42.66 42.66 42.66h42.66v85.32h-42.66c-23.47 0-42.66 19.2-42.66 42.66s19.2 42.66 42.66 42.66h42.66v85.32h-42.66c-23.47 0-42.66 19.2-42.66 42.66s19.2 42.66 42.66 42.66h42.66v85.32h-42.66c-23.47 0-42.66 19.2-42.66 42.66s19.2 42.66 42.66 42.66h42.66c0 23.46 19.2 42.66 42.66 42.66h597.25c23.47 0 42.66-19.2 42.66-42.66V127.98c0-23.46-19.2-42.66-42.66-42.66zM810.7 853.21H298.77V170.64H810.7v682.57z' fill='#1A1A1A' p-id='2025'></path><path d='M426.75 725.23m-42.66 0a42.66 42.66 0 1 0 85.32 0 42.66 42.66 0 1 0-85.32 0Z' fill='#1A1A1A' p-id='2026'></path><path d='M554.73 725.23m-42.66 0a42.66 42.66 0 1 0 85.32 0 42.66 42.66 0 1 0-85.32 0Z' fill='#1A1A1A' p-id='2027'></path><path d='M682.72 725.23m-42.66 0a42.66 42.66 0 1 0 85.32 0 42.66 42.66 0 1 0-85.32 0Z' fill='#1A1A1A' p-id='2028'></path><path d='M426.75 597.25c23.56 0 42.66-19.1 42.66-42.66V401.61l183.14 183.14a42.605 42.605 0 0 0 30.16 12.5c5.5 0 11.04-1.06 16.33-3.25 15.94-6.6 26.33-22.16 26.33-39.41V298.62c0-23.56-19.1-42.66-42.66-42.66-23.56 0-42.66 19.1-42.66 42.66V451.6L456.91 268.46a42.62 42.62 0 0 0-46.49-9.25c-15.94 6.6-26.33 22.16-26.33 39.41v255.96c0 23.57 19.1 42.67 42.66 42.67z' fill='#1A1A1A' p-id='2029'></path></svg>"
     post = ""
     name = "日常"
     url = "/categories/daily"
@@ -40,20 +40,28 @@ theme = "DoIt"
     weight = 3
   [[menu.main]]
     identifier = "tags"
-    pre = ""
+    pre = "<i class='fas fa-tags'></i>"
     post = ""
     name = "标签"
     url = "/tags/"
     title = ""
     weight = 4
   [[menu.main]]
+    identifier = "friends"
+    pre = "<i class='fas fa-user-friends'></i>"
+    post = ""
+    name = "朋友们"
+    url = "/friends/"
+    title = ""
+    weight = 5
+  [[menu.main]]
     identifier = "about"
-    pre = ""
+    pre = "<i class='fas fa-user-circle fa-fw'></i>"
     post = ""
     name = "关于"
     url = "/about/"
     title = ""
-    weight = 5
+    weight = 6
 
 [params]
   #  DoIt 主题版本
