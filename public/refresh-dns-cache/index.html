@@ -140,8 +140,14 @@
                     <span>目录</span>
                     <span><i class="details-icon fas fa-angle-right"></i></span>
                 </div>
-                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
-            </div><div class="content" id="content"><h1 id="查看-dns-缓存情况">查看 DNS 缓存情况</h1>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#查看-dns-缓存情况">查看 DNS 缓存情况</a></li>
+    <li><a href="#刷新-dns-缓存">刷新 DNS 缓存</a></li>
+    <li><a href="#刷新-chrome-中的-dns-缓存">刷新 Chrome 中的 DNS 缓存</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h2 id="查看-dns-缓存情况">查看 DNS 缓存情况</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -150,7 +156,7 @@
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo systemd-resolve --statistics
 </code></pre></td></tr></table>
 </div>
-</div><h1 id="刷新-dns-缓存">刷新 DNS 缓存</h1>
+</div><h2 id="刷新-dns-缓存">刷新 DNS 缓存</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -159,7 +165,7 @@
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo systemd-resolve --flush-caches
 </code></pre></td></tr></table>
 </div>
-</div><h1 id="刷新-chrome-中的-dns-缓存">刷新 Chrome 中的 DNS 缓存</h1>
+</div><h2 id="刷新-chrome-中的-dns-缓存">刷新 Chrome 中的 DNS 缓存</h2>
 <p>在地址栏中输入 <code>chrome://net-internals/#dns</code></p>
 <p>回车打开</p>
 <p>然后点击 <strong>Clear host cache</strong></p>

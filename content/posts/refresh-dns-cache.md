@@ -9,19 +9,19 @@ categories:
 tags: 
  - 教程
 ---
-# 查看 DNS 缓存情况
+## 查看 DNS 缓存情况
 
 ```bash
 sudo systemd-resolve --statistics
 ```
 
-# 刷新 DNS 缓存
+## 刷新 DNS 缓存
 
 ```bash
 sudo systemd-resolve --flush-caches
 ```
 
-# 刷新 Chrome 中的 DNS 缓存
+## 刷新 Chrome 中的 DNS 缓存
 
 在地址栏中输入 `chrome://net-internals/#dns`
 
