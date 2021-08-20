@@ -1,5 +1,15 @@
-# 博客又搬家啦！
-
+---
+title: 博客又搬家啦！
+date: 2021-07-23
+slug: move-to-azure
+categories:
+  - tech
+tags:
+  - 搬家
+  - Azure
+summary: 没错，我的博客又搬家了...
+featuredImage: "https://cattom-cdn.oss-accelerate.aliyuncs.com/image/move-my-blog-8.png"
+---
 
 ## 搬家！
 最近放假得闲，将博客安在了 Azure 的香港，算是利用起来之前一直闲置的 Azure 学生订阅了
