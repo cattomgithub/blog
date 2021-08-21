@@ -11,7 +11,7 @@
         <name>Cat Tom</name>
     </author><guid>https://blog.cattom.site/refresh-dns-cache/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://cattom-cdn.oss-accelerate.aliyuncs.com/image/ubuntu20.04.png" referrerpolicy="no-referrer">
+                <img src="https://static.cattom.site/image/ubuntu20.04.png" referrerpolicy="no-referrer">
             </div>Ubuntu 20.04 刷新 DNS 缓存方法。]]></description>
 </item><item>
     <title>[Ubuntu 20.04]Realtek ALC294无声音解决</title>
@@ -20,7 +20,7 @@
         <name>Cat Tom</name>
     </author><guid>https://blog.cattom.site/fix-no-sound-realtek-alc294/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://cattom-cdn.oss-accelerate.aliyuncs.com/image/ubuntu20.04.png" referrerpolicy="no-referrer">
+                <img src="https://static.cattom.site/image/ubuntu20.04.png" referrerpolicy="no-referrer">
             </div>Realtek ALC294 声卡在 Ubuntu 20.04 下外放/耳机无声音的解决方案。]]></description>
 </item><item>
     <title>博客又搬家啦！</title>
@@ -29,7 +29,7 @@
         <name>Cat Tom</name>
     </author><guid>https://blog.cattom.site/move-to-azure/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://cattom-cdn.oss-accelerate.aliyuncs.com/image/move-my-blog-8.png" referrerpolicy="no-referrer">
+                <img src="https://static.cattom.site/image/move-my-blog-8.png" referrerpolicy="no-referrer">
             </div>没错，我的博客又搬家了&hellip;]]></description>
 </item></channel>
 </rss>

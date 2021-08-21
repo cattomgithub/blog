@@ -24,12 +24,16 @@ Hello 👋 , 我是 Cat Tom
 ### 目前掌握
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" ></img>
 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" ></img> **最近刚刚学习完毕**
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" ></img>
 
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" ></img> **学习进度：40%，热衷于模仿（chao xi）别人的脚本**，[写了个小项目](https://maria.cattom.site/)
+**最近刚刚学习完毕**
+
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" ></img>
+
+**学习进度：40%，热衷于模仿（chao xi）别人的脚本**，[写了个小项目](https://maria.cattom.site/)
 
 ### 目前不掌握
-一点也不会，非常想学~
+**一点也不会，非常想学~**
 
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" ></img>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" ></img>
@@ -59,11 +63,23 @@ Hello 👋 , 我是 Cat Tom
 <svg t="1629465695967" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3811" width="17" height="17"><path d="M306.005333 117.632L444.330667 256h135.296l138.368-138.325333a42.666667 42.666667 0 0 1 60.373333 60.373333L700.330667 256H789.333333A149.333333 149.333333 0 0 1 938.666667 405.333333v341.333334a149.333333 149.333333 0 0 1-149.333334 149.333333h-554.666666A149.333333 149.333333 0 0 1 85.333333 746.666667v-341.333334A149.333333 149.333333 0 0 1 234.666667 256h88.96L245.632 177.962667a42.666667 42.666667 0 0 1 60.373333-60.373334zM789.333333 341.333333h-554.666666a64 64 0 0 0-63.701334 57.856L170.666667 405.333333v341.333334a64 64 0 0 0 57.856 63.701333L234.666667 810.666667h554.666666a64 64 0 0 0 63.701334-57.856L853.333333 746.666667v-341.333334A64 64 0 0 0 789.333333 341.333333zM341.333333 469.333333a42.666667 42.666667 0 0 1 42.666667 42.666667v85.333333a42.666667 42.666667 0 0 1-85.333333 0v-85.333333a42.666667 42.666667 0 0 1 42.666666-42.666667z m341.333334 0a42.666667 42.666667 0 0 1 42.666666 42.666667v85.333333a42.666667 42.666667 0 0 1-85.333333 0v-85.333333a42.666667 42.666667 0 0 1 42.666667-42.666667z" p-id="3812"></path></svg><a href="https://space.bilibili.com/27734632">Bilibili</a>
 
 **最喜欢的动漫：**
-- 《那年那兔那些事》 （血与泪的中国近现代史）
-- 《约会大作战》 （喜剧的外壳，悲剧的内核）
-- 《Clannad》 （最催泪的日常番，激发对人生的思考）
-- 《青春猪头少年》 （量子力学入门必看）
-- 《我的青春恋爱物语果然有问题》（切勿学习大老师自爆！）
+- 《那年那兔那些事》
+
+   血与泪的中国近现代史
+- 《约会大作战》
+
+   喜剧的外壳，悲剧的内核
+- 《Clannad》
+
+   最催泪的日常番，激发对人生的思考
+- 《青春猪头少年》
+
+   量子力学入门必看
+- 《我的青春恋爱物语果然有问题》
+
+   切勿学习大老师自爆！
+
+   现充大老师的青春恋爱物语有个锤子问题
 
 **我认为值得一看的番：**
 
@@ -99,4 +115,4 @@ Hello 👋 , 我是 Cat Tom
 
 <i class="fab fa-weixin"></i> 微信
 
-<img src="https://cattom-cdn.oss-accelerate.aliyuncs.com/image/wechat.png" height="200" width="200"></img>
+<img src="https://static.cattom.site/image/wechat.png?x-oss-process=style/blog" height="200" width="200"></img>

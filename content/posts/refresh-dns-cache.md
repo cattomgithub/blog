@@ -8,7 +8,7 @@ categories:
  - tech
 tags: 
  - 教程
-featuredImage: "https://cattom-cdn.oss-accelerate.aliyuncs.com/image/ubuntu20.04.png"
+featuredImage: "https://static.cattom.site/image/ubuntu20.04.png"
 ---
 ## 查看 DNS 缓存情况
 

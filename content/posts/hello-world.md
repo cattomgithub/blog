@@ -14,7 +14,7 @@ tags:
 
 最后就是因为**在家里太无聊啦~**
 
-{{< figure align=center src="https://cattom-cdn.oss-accelerate.aliyuncs.com/image/hello-world-1.png" >}}
+{{< figure align=center src="https://static.cattom.site/image/hello-world-1.png" >}}
 
 但是Gutenberg我还是有些不太熟悉，有些操作可能要重新熟悉下吧…
 
