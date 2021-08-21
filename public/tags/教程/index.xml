@@ -22,5 +22,12 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://static.cattom.site/image/ubuntu20.04.png" referrerpolicy="no-referrer">
             </div>Realtek ALC294 声卡在 Ubuntu 20.04 下外放/耳机无声音的解决方案。]]></description>
+</item><item>
+    <title>一款基于Vue的Web在线网易云音乐播放器：mmPlayer</title>
+    <link>https://blog.cattom.site/mmplayer/</link>
+    <pubDate>Mon, 23 Mar 2020 12:02:00 &#43;0800</pubDate><author>
+        <name>Cat Tom</name>
+    </author><guid>https://blog.cattom.site/mmplayer/</guid>
+    <description><![CDATA[mmPlayer是一个基于Vue2的在线音乐播放器。该项目需要配合网易云音乐 Node.js API运行，有需要的同学可尝试一下。]]></description>
 </item></channel>
 </rss>

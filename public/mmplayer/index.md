@@ -1,18 +1,5 @@
----
-title: "一款基于Vue的Web在线网易云音乐播放器：mmPlayer"
-date: 2020-03-23T12:02:00+08:00
-lastmod: 2020-03-23T12:02:00+08:00
-draft: false
-description: "mmPlayer是一个基于Vue2的在线音乐播放器。该项目需要配合网易云音乐 Node.js API运行，有需要的同学可尝试一下。"
-slug: mmplayer
-categories:
-  - tech
-tags:
-  - 教程
-  - 网易云
-  - Vue
-summary: mmPlayer是一个基于Vue2的在线音乐播放器。该项目需要配合网易云音乐 Node.js API运行，有需要的同学可尝试一下。
----
+# 一款基于Vue的Web在线网易云音乐播放器：mmPlayer
+
 mmPlayer是一个基于<code>Vue2</code>的在线音乐播放器。模仿 QQ 音乐网页版界面，采用<code>flexbox</code>和<code>position</code>布局。虽然是响应式，但主要以 PC 端为主，移动端只做相应适配（未做歌词显示）。
 
 该项目需要配合<code>网易云音乐 Node.js API</code>运行，有需要的同学可尝试一下。
@@ -41,3 +28,4 @@ mmPlayer是一个基于<code>Vue2</code>的在线音乐播放器。模仿 QQ 音
 {{< admonition tip "建议" >}}
 此处建议参考mmPlayer作者写的<a href="https://github.com/maomao1996/Blog/issues/1" target="_blank" rel="noopener">这篇文章</a>
 {{< /admonition >}}
+
