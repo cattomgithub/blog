@@ -54,6 +54,14 @@ theme = "DoIt"
     url = "/friends/"
     title = ""
     weight = 5
+   [[menu.main]]
+    identifier = "shuoshuo"
+    pre = "<i class='fas fa-comment-alt'></i>"
+    post = ""
+    name = "说说"
+    url = "/shuoshuo/"
+    title = ""
+    weight = 5
   [[menu.main]]
     identifier = "about"
     pre = "<i class='fas fa-user-circle fa-fw'></i>"
