@@ -8,7 +8,7 @@ categories:
 tags:
   - 教程
 summary: Realtek ALC294 声卡在 Ubuntu 20.04 下外放/耳机无声音的解决方案。
-featuredImage: "https://static.cattom.site/image/ubuntu20.04.png"
+featuredImage: "https://static.cattom.site/image/ubuntu20.04.png?x-oss-process=style/webp"
 --- 
 ## 环境
 * ASUS FL8000U

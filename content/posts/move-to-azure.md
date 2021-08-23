@@ -8,7 +8,7 @@ tags:
   - 搬家
   - Azure
 summary: 没错，我的博客又搬家了...
-featuredImage: "https://static.cattom.site/image/move-my-blog-8.png"
+featuredImage: "https://static.cattom.site/image/move-my-blog-8.png?x-oss-process=style/webp"
 ---
 
 ## 搬家！
@@ -22,7 +22,7 @@ featuredImage: "https://static.cattom.site/image/move-my-blog-8.png"
 ## 再度更换
 博客程序从 Maverick 换到了 Hugo，Markdown 还不是很熟悉啊...
 
-{{< figure align=center src="https://static.cattom.site/image/move-to-azure-2.jpg" >}}
+{{< figure align=center src="https://static.cattom.site/image/move-to-azure-2.jpg?x-oss-process=style/webp" >}}
 
 ## 主题
 目前博客正在使用的主题

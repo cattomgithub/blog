@@ -12,7 +12,7 @@
 ## 再度更换
 博客程序从 Maverick 换到了 Hugo，Markdown 还不是很熟悉啊...
 
-{{< figure align=center src="https://static.cattom.site/image/move-to-azure-2.jpg" >}}
+{{< figure align=center src="https://static.cattom.site/image/move-to-azure-2.jpg?x-oss-process=style/webp" >}}
 
 ## 主题
 目前博客正在使用的主题

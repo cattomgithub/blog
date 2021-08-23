@@ -4,5 +4,5 @@
 
 只要…别把窗户打开就好
 
-{{< figure align=center src="https://static.cattom.site/img/lower-the-temperature.jpg" >}}
+{{< figure align=center src="https://static.cattom.site/img/lower-the-temperature.jpg?x-oss-process=style/webp" >}}
 
