@@ -14,7 +14,7 @@ theme = "DoIt"
   [[menu.main]]
     identifier = "posts"
     # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-    pre = "<i class='fas fa-book'></i>"
+    pre = "<i class='far fa-folder-open fa-fw'></i>"
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
     name = "时光轴"
@@ -32,7 +32,7 @@ theme = "DoIt"
     weight = 2
   [[menu.main]]
     identifier = "daily"
-    pre = "<i class='far fa-folder fa-fw'></i>"
+    pre = "<i class='fas fa-book'></i>"
     post = ""
     name = "日常"
     url = "/categories/daily"
