@@ -4,9 +4,18 @@
         <link>https://blog.cattom.site/</link>
         <description>Cat Tom 的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>linweijie2015@gmail.com (Cat Tom)</managingEditor>
-            <webMaster>linweijie2015@gmail.com (Cat Tom)</webMaster><lastBuildDate>Thu, 05 Aug 2021 17:13:40 &#43;0800</lastBuildDate>
+            <webMaster>linweijie2015@gmail.com (Cat Tom)</webMaster><lastBuildDate>Tue, 25 Jan 2022 17:58:57 &#43;0800</lastBuildDate>
             <atom:link href="https://blog.cattom.site/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>大考前后 必有大病</title>
+    <link>https://blog.cattom.site/disease-after-big-test/</link>
+    <pubDate>Tue, 25 Jan 2022 17:58:57 &#43;0800</pubDate><author>
+        <name>Cat Tom</name>
+    </author><guid>https://blog.cattom.site/disease-after-big-test/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://static.cattom.site/img/disease-after-big-test.png?x-oss-process=style/webp" referrerpolicy="no-referrer">
+            </div>这是一种从小学开始就萦绕于我之上的神奇现象，至今无解。]]></description>
+</item><item>
     <title>[Ubuntu 20.04]刷新 DNS 缓存</title>
     <link>https://blog.cattom.site/refresh-dns-cache/</link>
     <pubDate>Thu, 05 Aug 2021 17:13:40 &#43;0800</pubDate><author>

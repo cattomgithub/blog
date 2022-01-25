@@ -2,14 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://blog.cattom.site/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/categories/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/tags/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/disease-after-big-test/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/posts/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/categories/daily/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E7%94%9F%E7%97%85/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://blog.cattom.site/shuoshuo/</loc><lastmod>2021-08-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/friends/</loc><lastmod>2021-08-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/about/</loc><lastmod>2021-08-14T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/refresh-dns-cache/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/categories/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/tags/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/posts/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/categories/tech/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E6%95%99%E7%A8%8B/</loc><lastmod>2021-08-05T17:13:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/fix-no-sound-realtek-alc294/</loc><lastmod>2021-08-04T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -19,7 +24,6 @@
             <loc>https://blog.cattom.site/tags/%E5%8A%A8%E6%BC%AB/</loc><lastmod>2021-07-18T12:36:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E5%B0%8F%E6%9E%97%E5%AE%B6%E7%9A%84%E9%BE%99%E5%A5%B3%E4%BB%86/</loc><lastmod>2021-07-18T12:36:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/miss-kobayashis-dragon-maid/</loc><lastmod>2021-07-18T12:36:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/categories/daily/</loc><lastmod>2021-07-18T12:36:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/vue/</loc><lastmod>2020-03-23T12:02:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/mmplayer/</loc><lastmod>2020-03-23T12:02:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E7%BD%91%E6%98%93%E4%BA%91/</loc><lastmod>2020-03-23T12:02:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
