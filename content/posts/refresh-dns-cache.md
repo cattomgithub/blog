@@ -8,7 +8,7 @@ categories:
  - tech
 tags: 
  - 教程
-featuredImage: "https://static.cattom.site/img/refresh-dns-cache.jpeg?x-oss-process=style/blog"
+featuredImage: "https://static.cattom.site/image/ubuntu20.04.png?x-oss-process=style/webp"
 ---
 ## 查看 DNS 缓存情况
 
