@@ -70,7 +70,7 @@ featuredImage: ""
 
 一气之下，我决定先不睡了，写一会字帖。也许写着写着就困了。
 
-{{< image src="https://static.cattom.site/img/journal_2022.1.29-2.png?x-oss-process=style/blog">}}
+{{< figure align=center src="https://static.cattom.site/img/journal_2022.1.29-2.png?x-oss-process=style/blog" >}}
 
 结果，我反倒是越写越精神了。
 
