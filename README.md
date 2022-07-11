@@ -5,4 +5,3 @@
 
 以 [DoIt](https://github.com/HEIGE-PCloud/DoIt) 作为主题
 
-采用 [Waline](https://github.com/walinejs/waline) 为评论系统 
