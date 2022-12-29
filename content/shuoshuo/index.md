@@ -33,8 +33,8 @@ comment: false
     ispeak
       .init({
         el: '#ispeak',
-        api: 'https://kkapi-open-psi.vercel.app/',
-        author: '63ac6c02b2c15691e80ef38b',
+        api: 'https://speak-api.cattom.site:85/',
+        author: '63ad4ae938fdd8e429964888',
         pageSize: 10,
         loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
         comment: function (speak) {
