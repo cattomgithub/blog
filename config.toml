@@ -34,26 +34,10 @@ theme = "DoIt"
     identifier = "writing"
     pre = "<i class='fas fa-pen'></i>"
     post = ""
-    name = "随笔"
+    name = "写作"
     url = "/categories/writing"
     title = ""
     weight = 3
-  [[menu.main]]
-    identifier = "tech"
-    pre = "<i class='fas fa-tools'></i>"
-    post = ""
-    name = "技术"
-    url = "/categories/tech"
-    title = ""
-    weight = 4
-  [[menu.main]]
-    identifier = "tags"
-    pre = "<i class='fas fa-tags'></i>"
-    post = ""
-    name = "标签"
-    url = "/tags/"
-    title = ""
-    weight = 5
   [[menu.main]]
     identifier = "friends"
     pre = "<i class='fas fa-user-friends'></i>"
@@ -61,7 +45,7 @@ theme = "DoIt"
     name = "朋友们"
     url = "/friends/"
     title = ""
-    weight = 6
+    weight = 4
    [[menu.main]]
     identifier = "shuoshuo"
     pre = "<i class='fas fa-comment-alt'></i>"
@@ -69,7 +53,7 @@ theme = "DoIt"
     name = "说说"
     url = "/shuoshuo/"
     title = ""
-    weight = 7
+    weight = 5
   [[menu.main]]
     identifier = "about"
     pre = "<i class='fas fa-user-circle fa-fw'></i>"
@@ -77,7 +61,15 @@ theme = "DoIt"
     name = "关于"
     url = "/about/"
     title = ""
-    weight = 8
+    weight = 6
+  [[menu.main]]
+    identifier = "note"
+    pre = "<i class='fas fa-external-link-alt'></i>"
+    post = ""
+    name = "技术笔记"
+    url = "https://note.cattom.site/"
+    title = ""
+    weight = 7
 
 [params]
   #  DoIt 主题版本

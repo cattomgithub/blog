@@ -35,24 +35,6 @@
                 <img src="https://static.cattom.site/img/disease-after-big-test.png?x-oss-process=style/webp" referrerpolicy="no-referrer">
             </div>这是一种从小学开始就萦绕于我之上的神奇现象，至今无解。]]></description>
 </item><item>
-    <title>[Ubuntu 20.04]刷新 DNS 缓存</title>
-    <link>https://blog.cattom.site/refresh-dns-cache/</link>
-    <pubDate>Thu, 05 Aug 2021 17:13:40 &#43;0800</pubDate><author>
-        <name>Cat Tom</name>
-    </author><guid>https://blog.cattom.site/refresh-dns-cache/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://static.cattom.site/image/ubuntu20.04.png?x-oss-process=style/webp" referrerpolicy="no-referrer">
-            </div>Ubuntu 20.04 刷新 DNS 缓存方法。]]></description>
-</item><item>
-    <title>[Ubuntu 20.04]Realtek ALC294无声音解决</title>
-    <link>https://blog.cattom.site/fix-no-sound-realtek-alc294/</link>
-    <pubDate>Wed, 04 Aug 2021 00:00:00 &#43;0000</pubDate><author>
-        <name>Cat Tom</name>
-    </author><guid>https://blog.cattom.site/fix-no-sound-realtek-alc294/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://static.cattom.site/image/ubuntu20.04.png?x-oss-process=style/webp" referrerpolicy="no-referrer">
-            </div>Realtek ALC294 声卡在 Ubuntu 20.04 下外放/耳机无声音的解决方案。]]></description>
-</item><item>
     <title>博客又搬家啦！</title>
     <link>https://blog.cattom.site/move-to-azure/</link>
     <pubDate>Fri, 23 Jul 2021 00:00:00 &#43;0000</pubDate><author>
@@ -71,18 +53,25 @@
                 <img src="https://static.cattom.site/img/miss-kobayashis-dragon-maid.png?x-oss-process=style/webp" referrerpolicy="no-referrer">
             </div>小林家的龙女仆S开播难]]></description>
 </item><item>
-    <title>一款基于Vue的Web在线网易云音乐播放器：mmPlayer</title>
-    <link>https://blog.cattom.site/mmplayer/</link>
-    <pubDate>Mon, 23 Mar 2020 12:02:00 &#43;0800</pubDate><author>
-        <name>Cat Tom</name>
-    </author><guid>https://blog.cattom.site/mmplayer/</guid>
-    <description><![CDATA[mmPlayer是一个基于Vue2的在线音乐播放器。该项目需要配合网易云音乐 Node.js API运行，有需要的同学可尝试一下。]]></description>
-</item><item>
     <title>降温！</title>
     <link>https://blog.cattom.site/lower-the-temperature/</link>
     <pubDate>Sun, 16 Feb 2020 10:25:00 &#43;0800</pubDate><author>
         <name>Cat Tom</name>
     </author><guid>https://blog.cattom.site/lower-the-temperature/</guid>
     <description><![CDATA[随便写写&hellip;]]></description>
+</item><item>
+    <title>雨还在下...</title>
+    <link>https://blog.cattom.site/rainy-day/</link>
+    <pubDate>Sat, 15 Feb 2020 11:41:00 &#43;0800</pubDate><author>
+        <name>Cat Tom</name>
+    </author><guid>https://blog.cattom.site/rainy-day/</guid>
+    <description><![CDATA[随便写写&hellip;]]></description>
+</item><item>
+    <title>第一篇文章</title>
+    <link>https://blog.cattom.site/hello-world/</link>
+    <pubDate>Sat, 08 Feb 2020 22:28:00 &#43;0800</pubDate><author>
+        <name>Cat Tom</name>
+    </author><guid>https://blog.cattom.site/hello-world/</guid>
+    <description><![CDATA[这个博客的第一篇文章。]]></description>
 </item></channel>
 </rss>

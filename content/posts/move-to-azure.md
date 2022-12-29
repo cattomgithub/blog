@@ -3,7 +3,7 @@ title: 博客又搬家啦！
 date: 2021-07-23
 slug: move-to-azure
 categories:
-  - tech
+  - daily
 tags:
   - 搬家
   - Azure
