@@ -35,8 +35,10 @@ comment: false
         el: '#ispeak',
         api: 'https://speak-api.cattom.site:85/',
         author: '63ad4ae938fdd8e429964888',
+        speakPage: "/shuoshuo/",
+        githubClientId: 'Iv1.f07863abf084e04f', 
         pageSize: 10,
-        loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
+        loading_img: 'https://www.penginman.com/img/loading.gif',
         comment: function (speak) {
           // 4.4.0 之后在此回调函数中初始化评论
           const { _id, title, content } = speak
