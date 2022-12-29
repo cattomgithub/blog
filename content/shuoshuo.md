@@ -43,7 +43,7 @@ comment: false
           const contentSub = content.substring(0, 30)
           new Artalk({
             el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            pageKey: '/shuoshuo/info.html?q=' + _id, // 手动传入当前speak的唯一id
+            pageKey: '/shuoshuo/?q=' + _id, // 手动传入当前speak的唯一id
             pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
             server: 'https://comment.cattom.site:83',
             site: 'speak' // 你的站点名
