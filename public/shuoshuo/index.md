@@ -29,6 +29,7 @@
         api: 'https://kkapi-open-psi.vercel.app/',
         author: '63ac6c02b2c15691e80ef38b',
         pageSize: 10,
+        speakPage："/shuoshuo/",
         loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
       })
       .then(function () {
