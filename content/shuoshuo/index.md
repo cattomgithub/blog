@@ -13,15 +13,21 @@ comment: false
 />
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
+  href="https://cdn.jsdelivr.net/npm/ispeak@4.3.2/style.css"
 />
 
+<style>
+  #article-container .D-avatar {
+    margin: 0 10px 0 0;
+  }
+  .D-footer {
+    display: none;
+  }
+</style>
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
-
-
-<script src="https://cdn.staticfile.org/twikoo/1.6.7/twikoo.all.min.js"></script>
+<script src="https://cdn1.tianli0.top/npm/discuss@0.2.2/dist/Discuss.js"></script>
+<script src="https://cdn1.tianli0.top/npm/ispeak@4.3.2/ispeak.umd.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')
@@ -29,21 +35,16 @@ comment: false
   meta.content = 'no-referrer'
   head.appendChild(meta)
   if (ispeak) {
-    ispeak.init({
+    ispeak
+      .init({
         el: '#ispeak',
         api: 'https://speak-api.cattom.site:85/',
         author: '63ad4ae938fdd8e429964888',
         pageSize: 10,
         loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
-        comment: function (speak) {
-          const { _id, title, content } = speak
-          // 4.4.0 之后在此回调函数中初始化评论
-          //这里是twikoo的初始化配置，如果使用其他评论可以在这里修改
-          twikoo.init({ 
-            el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-			      path: '/shuoshuo/?q=' + _id,
-            envId: "twikoo后端地址"
-          })
+        initCommentName: 'Discuss',
+        initCommentOptions: {
+          serverURLs: 'https://kkdiscuss.vercel.app/'
         }
       })
       .then(function () {

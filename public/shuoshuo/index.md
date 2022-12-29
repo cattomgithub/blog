@@ -9,16 +9,21 @@
 />
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
+  href="https://cdn.jsdelivr.net/npm/ispeak@4.3.2/style.css"
 />
 
+<style>
+  #article-container .D-avatar {
+    margin: 0 10px 0 0;
+  }
+  .D-footer {
+    display: none;
+  }
+</style>
 <script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
 <script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
-<!-- CSS -->
-<link href="https://unpkg.com/artalk@2.4.3/dist/Artalk.css" rel="stylesheet">
-<!-- JS -->
-<script src="https://unpkg.com/artalk@2.4.3/dist/Artalk.js"></script>
+<script src="https://cdn1.tianli0.top/npm/discuss@0.2.2/dist/Discuss.js"></script>
+<script src="https://cdn1.tianli0.top/npm/ispeak@4.3.2/ispeak.umd.js"></script>
 <script>
   var head = document.getElementsByTagName('head')[0]
   var meta = document.createElement('meta')
@@ -33,17 +38,9 @@
         author: '63ad4ae938fdd8e429964888',
         pageSize: 10,
         loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
-        comment: function (speak) {
-          // 4.4.0 之后在此回调函数中初始化评论
-          const { _id, title, content } = speak
-          const contentSub = content.substring(0, 30)
-          new Artalk({
-            el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
-            pageKey: '/shuoshuo/?q=' + _id, // 手动传入当前speak的唯一id
-            pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
-            server: 'https://comment.cattom.site:83',
-            site: 'speak' // 你的站点名
-          })
+        initCommentName: 'Discuss',
+        initCommentOptions: {
+          serverURLs: 'https://kkdiscuss.vercel.app/'
         }
       })
       .then(function () {
