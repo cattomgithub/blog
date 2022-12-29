@@ -1,24 +1,58 @@
 # 说说
 
  
-<div id='speak'></speak>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/ispeak-bber/ispeak-bber.min.js" charset="utf-8" ></script>
+<div id="tip" style="text-align:center;">ipseak加载中</div>
+<div id="ispeak"></div>
+<link
+  rel="stylesheet"
+  href="https://cdn.staticfile.org/highlight.js/10.6.0/styles/atom-one-dark.min.css"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/style.css"
+/>
+
+<script src="https://cdn.staticfile.org/highlight.js/10.6.0/highlight.min.js"></script>
+<script src="https://cdn.staticfile.org/marked/2.0.0/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/ispeak@4.4.0/ispeak.umd.js"></script>
+<!-- CSS -->
+<link href="https://unpkg.com/artalk@2.3.4/dist/Artalk.css" rel="stylesheet" />
+<!-- JS -->
+<script src="https://unpkg.com/artalk@2.3.4/dist/Artalk.js"></script>
 <script>
-ispeakBber
-    .init({
-      el: '#speak', // 容器选择器
-      name: 'Cat Tom', // 显示的昵称
-      envId: 'blog-bb-6gvuymj7b6dae24e', // 环境id
-      region: 'ap-shanghai', // 腾讯云地址，默认为上海
-      limit: 10, // 每次加载的条数，默认为5
-      avatar: 'https://static.cattom.site/image/icon/32.png?x-oss-process=style/webp',
-      fromColor:'rgb(245, 150, 170)', // 下方标签背景颜色 默认 rgb(245, 150, 170)
-      loadingImg: 'https://7.dusays.com/2021/03/04/d2d5e983e2961.gif', // 自定义loading的图片，示例值为默认值
-      dbName:'talks' // 数据的名称，默认talks，避免有人的命名不是这个，所以加入此配置字段。
-    })
-    .then(function() {
-      // 哔哔加载完成后的回调函数，你可以写你自己的功能
-      console.log('哔哔 加载完成')
-    })
+  var head = document.getElementsByTagName('head')[0]
+  var meta = document.createElement('meta')
+  meta.name = 'referrer'
+  meta.content = 'no-referrer'
+  head.appendChild(meta)
+  if (ispeak) {
+    ispeak
+      .init({
+        el: '#ispeak',
+        api: 'https://kkapi-open-psi.vercel.app/',
+        author: '63ac6c02b2c15691e80ef38b',
+        pageSize: 10,
+        loading_img: 'https://bu.dusays.com/2021/03/04/d2d5e983e2961.gif',
+        comment: function (speak) {
+          // 4.4.0 之后在此回调函数中初始化评论
+          const { _id, title, content } = speak
+          const contentSub = content.substring(0, 30)
+          new Artalk({
+            el: '.ispeak-comment', // 默认情况下 ipseak 生成class为 ispeak-comment 的div
+            pageKey: '/speak/info.html?q=' + _id, // 手动传入当前speak的唯一id
+            pageTitle: title || contentSub, // 手动传入当前speak的标题(由于content可能过长，因此截取前30个字符)
+            server: 'https://api.antmoe.com/artalk/',
+            site: 'speak' // 你的站点名
+          })
+        }
+      })
+      .then(function () {
+        console.log('ispeak 加载完成')
+        document.getElementById('tip').style.display = 'none'
+      })
+  } else {
+    document.getElementById('tip').innerHTML = 'ipseak依赖加载失败！'
+  }
 </script>
+
 
