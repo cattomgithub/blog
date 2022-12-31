@@ -19,11 +19,11 @@
 <meta name="application-name" content="Cat Tom&#39;s Blog">
 <meta name="apple-mobile-web-app-title" content="Cat Tom&#39;s Blog">
 
-<meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="theme-color" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" href="https://blog.cattom.site/current-affairs-commentary-2/" /><link rel="prev" href="https://blog.cattom.site/current-affairs-commentary-1/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="/lib/fontawesome-free/all.min.css">
-    <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="/lib/animate/animate.min.css">
-    <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" href="https://blog.cattom.site/current-affairs-commentary-2/" /><link rel="prev" href="https://blog.cattom.site/current-affairs-commentary-1/" /><link rel="next" href="https://blog.cattom.site/2022-summary/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="/lib/fontawesome-free/all.min.css">
+        <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="/lib/animate/animate.min.css">
+        <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -43,12 +43,12 @@
     </script></head>
 
 <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">
-        function setTheme(theme) {document.body.setAttribute('theme', theme);}
+        function setTheme(theme) {document.body.setAttribute('theme', theme); document.documentElement.style.setProperty('color-scheme', theme === 'light' ? 'light' : 'dark');}
         function saveTheme(theme) {window.localStorage && localStorage.setItem('theme', theme);}
         function getMeta(metaName) {const metas = document.getElementsByTagName('meta'); for (let i = 0; i < metas.length; i++) if (metas[i].getAttribute('name') === metaName) return metas[i]; return '';}
         if (window.localStorage && localStorage.getItem('theme')) {let theme = localStorage.getItem('theme');theme === 'light' || theme === 'dark' || theme === 'black' ? setTheme(theme) : (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light')); } else { if ('auto' === 'light' || 'auto' === 'dark' || 'auto' === 'black') setTheme('auto'), saveTheme('auto'); else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');}
-        let themeColorMeta = getMeta('theme-color');
-        if (document.body.getAttribute('theme') != 'light') themeColorMeta.content = '#000000';
+        let metaColors = {'light': '#f8f8f8','dark': '#252627','black': '#000000'}
+        getMeta('theme-color').content = metaColors[document.body.getAttribute('theme')];
     </script>
     <div id="back-to-top"></div>
     <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
@@ -57,7 +57,7 @@
             <a href="/" title="Cat Tom&#39;s Blog">Cat Tom&#39;s Blog</a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><a class="menu-item" href="/posts/"><i class='fas fa-folder-open'></i> 归档 </a><a class="menu-item" href="/categories/daily"><i class='fas fa-book'></i> 日常 </a><a class="menu-item" href="/categories/writing"><i class='fas fa-pen'></i> 写作 </a><a class="menu-item" href="/friends/"><i class='fas fa-user-friends'></i> 朋友们 </a><a class="menu-item" href="/shuoshuo/"><i class='fas fa-comment-alt'></i> 说说 </a><a class="menu-item" href="/about/"><i class='fas fa-user-circle fa-fw'></i> 关于 </a><a class="menu-item" href="https://note.cattom.site/" rel="noopener noreffer" target="_blank"><i class='fas fa-external-link-alt'></i> 技术笔记 </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"><i class='fas fa-folder-open'></i> 归档 </a><a class="menu-item" href="/categories/daily"><i class='fas fa-book'></i> 日常 </a><a class="menu-item" href="/categories/writing"><i class='fas fa-pen'></i> 写作 </a><a class="menu-item" href="/friends/"><i class='fas fa-user-friends'></i> 朋友们 </a><a class="menu-item" href="/shuoshuo/"><i class='fas fa-comment-alt'></i> 说说 </a><a class="menu-item" href="/about/"><i class='fas fa-user-circle fa-fw'></i> 关于 </a><a class="menu-item" href="https://note.cattom.site/" rel="noopener noreferrer" target="_blank"><i class='fas fa-external-link-alt'></i> 技术笔记 </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
                         <input type="text" placeholder="搜索文章标题或内容..." id="search-input-desktop">
                         <a href="#" onclick="return false;" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
                             <i class="fas fa-search fa-fw"></i>
@@ -105,7 +105,7 @@
                     <a href="#" onclick="return false;" class="search-cancel" id="search-cancel-mobile">
                         取消
                     </a>
-                </div><a class="menu-item" href="/posts/" title=""><i class='fas fa-folder-open'></i>归档</a><a class="menu-item" href="/categories/daily" title=""><i class='fas fa-book'></i>日常</a><a class="menu-item" href="/categories/writing" title=""><i class='fas fa-pen'></i>写作</a><a class="menu-item" href="/friends/" title=""><i class='fas fa-user-friends'></i>朋友们</a><a class="menu-item" href="/shuoshuo/" title=""><i class='fas fa-comment-alt'></i>说说</a><a class="menu-item" href="/about/" title=""><i class='fas fa-user-circle fa-fw'></i>关于</a><a class="menu-item" href="https://note.cattom.site/" title="" rel="noopener noreffer" target="_blank"><i class='fas fa-external-link-alt'></i>技术笔记</a><a href="#" onclick="return false;" class="menu-item theme-select" title="切换主题">
+                </div><a class="menu-item" href="/posts/" title=""><i class='fas fa-folder-open'></i>归档</a><a class="menu-item" href="/categories/daily" title=""><i class='fas fa-book'></i>日常</a><a class="menu-item" href="/categories/writing" title=""><i class='fas fa-pen'></i>写作</a><a class="menu-item" href="/friends/" title=""><i class='fas fa-user-friends'></i>朋友们</a><a class="menu-item" href="/shuoshuo/" title=""><i class='fas fa-comment-alt'></i>说说</a><a class="menu-item" href="/about/" title=""><i class='fas fa-user-circle fa-fw'></i>关于</a><a class="menu-item" href="https://note.cattom.site/" title="" rel="noopener noreferrer" target="_blank"><i class='fas fa-external-link-alt'></i>技术笔记</a><a href="#" onclick="return false;" class="menu-item theme-select" title="切换主题">
                 <i class="fas fa-adjust fa-fw"></i>
                 <select class="color-theme-select" id="theme-select-mobile" title="切换主题">
                     <option value="light">浅色</option>
@@ -125,10 +125,16 @@
 <main class="main">
             <div class="container"><div class="toc" id="toc-auto">
         <h2 class="toc-title">目录</h2>
-        <div class="toc-content" id="toc-content-auto"></div>
+        <div class="toc-content" id="toc-content-auto"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#第一自民党的权力结构面临重大调整">第一，自民党的权力结构面临重大调整。</a></li>
+    <li><a href="#第二日本右翼情绪高涨">第二，日本右翼情绪高涨。</a></li>
+    <li><a href="#第三岸田文雄政权机遇与挑战并存">第三，岸田文雄政权机遇与挑战并存。</a></li>
+  </ul>
+</nav></div>
     </div><script>document.getElementsByTagName("main")[0].setAttribute("pageStyle", "normal")</script><script>document.getElementsByTagName("main")[0].setAttribute("autoTOC", "true")</script><article class="page single"><h1 class="single-title animate__animated animate__flipInX">安倍晋三突然离世给日本政坛带来诸多影响</h1><div class="post-meta">
             <div class="post-meta-line">
-                <span class="post-author"><i class="author fas fa-user-circle fa-fw"></i><a href="https://blog.cattom.site/" title="Author" target="_blank" rel="noopener noreffer author" class="author">Cat Tom</a>
+                <span class="post-author"><i class="author fas fa-user-circle fa-fw"></i><a href="https://blog.cattom.site/" title="Author" target="_blank" rel="noopener noreferrer author" class="author">Cat Tom</a>
                 </span>&nbsp;<span class="post-category">收录于 </span>&nbsp;<span class="post-category">类别 <a href="/categories/writing/"><i class="far fa-folder fa-fw"></i>随笔</a></span></div>
             <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-07-19">2022-07-19</time>&nbsp;<i class="far fa-edit fa-fw"></i>&nbsp;<time datetime="2022-07-19">2022-07-19</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 870 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 2 分钟&nbsp;</div>
@@ -146,23 +152,25 @@
 </nav></div>
             </div><div class="content" id="content"><p>7月8日上午11时30分(UTC+9)，在日本奈良县大和西大寺火车站外，随着山上彻也的自制土枪发出的两声枪响，前日本首相安倍晋三应声倒地，后经抢救后不治身亡。</p>
 <p>安倍晋三作为日本立宪以来在任时间最长的首相，其政治影响力非同一般。安倍晋三突然离世给日本政坛带来了诸多影响。</p>
-<h2 id="第一自民党的权力结构面临重大调整">第一，自民党的权力结构面临重大调整。</h2>
-<p>这一调整同时表现在两个趋势上：一是安倍所领导的清和会后继无人，遭到重大削弱；二是茂木·岸田·麻生派阀联盟可能破裂。</p>
+<h2 id="第一自民党的权力结构面临重大调整" class="headerLink">
+    <a href="#%e7%ac%ac%e4%b8%80%e8%87%aa%e6%b0%91%e5%85%9a%e7%9a%84%e6%9d%83%e5%8a%9b%e7%bb%93%e6%9e%84%e9%9d%a2%e4%b8%b4%e9%87%8d%e5%a4%a7%e8%b0%83%e6%95%b4" class="header-mark"></a>第一，自民党的权力结构面临重大调整。</h2><p>这一调整同时表现在两个趋势上：一是安倍所领导的清和会后继无人，遭到重大削弱；二是茂木·岸田·麻生派阀联盟可能破裂。</p>
 <p>清和会在安倍离世前还没有确定安倍的接班人。因为安倍还想着“晋三”，三度拜相，所以并没有太过注重培养接班人。</p>
 <p>目前来看，有可能弥补空位的人选一般认为是在自民党党首选举中备受安倍支持的高市早苗和安倍的弟弟现任防卫大臣岸信夫。
 但是两人各有各的麻烦。高市早苗并不被清和会内的元老看好，甚至目前还没有成功进入到清和会当中。岸信夫的身体情况不佳，就算成功接班也未必能坚持太久。</p>
 <p>茂木·岸田·麻生三人此前为共同抵抗安倍的政治影响，搁置分歧，共同合作，以支持岸田政权减少来自安倍的控制。</p>
 <p>但目前由于安倍离世，清和会势微，三人所共同抵抗的敌人不复存在，被掩盖的利益冲突重新显现，茂木·岸田·麻生派阀联盟可能破裂。</p>
 <p>综上所述，自民党内权力天平被打破，权力结构面临重大调整。</p>
-<h2 id="第二日本右翼情绪高涨">第二，日本右翼情绪高涨。</h2>
-<p>安倍离世后，引发了日本右翼情绪升温。</p>
+<h2 id="第二日本右翼情绪高涨" class="headerLink">
+    <a href="#%e7%ac%ac%e4%ba%8c%e6%97%a5%e6%9c%ac%e5%8f%b3%e7%bf%bc%e6%83%85%e7%bb%aa%e9%ab%98%e6%b6%a8" class="header-mark"></a>第二，日本右翼情绪高涨。</h2><p>安倍离世后，引发了日本右翼情绪升温。</p>
 <p>受此影响，7月10日举行的日本参议院选举中自民·公明执政联盟大胜，获得超过半数席位，改宪四党获得了超过三分之二席位。</p>
 <p>不仅如此，安倍离世后，日本极右翼势力活跃度大幅提升，极右翼势力的抬头将影响岸田政权的运行。</p>
-<h2 id="第三岸田文雄政权机遇与挑战并存">第三，岸田文雄政权机遇与挑战并存。</h2>
-<p>机遇在于安倍的离世，将减少清和会对岸田政权的控制，岸田文雄施政空间加大。有望摆脱安倍的影响，政治上回归保守。</p>
+<h2 id="第三岸田文雄政权机遇与挑战并存" class="headerLink">
+    <a href="#%e7%ac%ac%e4%b8%89%e5%b2%b8%e7%94%b0%e6%96%87%e9%9b%84%e6%94%bf%e6%9d%83%e6%9c%ba%e9%81%87%e4%b8%8e%e6%8c%91%e6%88%98%e5%b9%b6%e5%ad%98" class="header-mark"></a>第三，岸田文雄政权机遇与挑战并存。</h2><p>机遇在于安倍的离世，将减少清和会对岸田政权的控制，岸田文雄施政空间加大。有望摆脱安倍的影响，政治上回归保守。</p>
 <p>挑战在于安倍离世使自民党被掩盖的利益冲突重新显现，茂木·岸田·麻生派阀联盟可能破裂，岸田施政阻力增加。</p>
 <p>挑战还在于修改宪法。从传统来说，岸田所领导的宏池会偏向保守，在修改宪法上通常模糊其词。但是安倍之死导致了右翼情绪高涨，修宪也理所当然的放在了第一位。岸田政权被迫推进修宪。</p>
-</div><div class="post-footer" id="post-footer">
+</div>
+
+        <div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
@@ -171,9 +179,8 @@
             <div class="post-info-license"></div>
         </div>
         <div class="post-info-line">
-            <div class="post-info-md"><span>
-                            <a class="link-to-markdown" href="/current-affairs-commentary-2/index.md" target="_blank" rel="noopener noreferrer">阅读原始文档</a>
-                        </span></div>
+            <div class="post-info-md"><span><a class="link-to-mardown" href=/current-affairs-commentary-2/index.md target="_blank" rel="noopener noreferrer">阅读原始文档</a>
+                    </span></div>
             <div class="post-info-share">
                 <span></span>
             </div>
@@ -183,16 +190,21 @@
     <div class="post-info-more">
         <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/%E6%97%B6%E4%BA%8B%E8%AF%84%E8%AE%BA/">时事评论</a>,&nbsp;<a href="/tags/%E6%97%A5%E6%9C%AC/">日本</a>,&nbsp;<a href="/tags/%E5%9B%BD%E9%99%85%E6%94%BF%E6%B2%BB/">国际政治</a></section>
         <section>
-            <span><a href="#" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
         </section>
     </div>
 
-    <div class="post-nav"><a href="/current-affairs-commentary-1/" class="prev" rel="prev" title="实现社会公平正义道阻且长 ——浅论中国新闻周刊关于明星免笔试进入编制的社论"><i class="fas fa-angle-left fa-fw"></i>实现社会公平正义道阻且长 ——浅论中国新闻周刊关于明星免笔试进入编制的社论</a></div>
+    <div class="post-nav"><a href="/current-affairs-commentary-1/" class="prev" rel="prev" title="实现社会公平正义道阻且长 ——浅论中国新闻周刊关于明星免笔试进入编制的社论"><i class="fas fa-angle-left fa-fw"></i>实现社会公平正义道阻且长 ——浅论中国新闻周刊关于明星免笔试进入编制的社论</a>
+            <a href="/2022-summary/" class="next" rel="next" title="2022 年度总结 &amp; 2023 目标">2022 年度总结 &amp; 2023 目标<i class="fas fa-angle-right fa-fw"></i></a></div>
 </div>
 </article></div>
         </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">由 <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.109.0">Hugo</a> 强力驱动 | 主题 - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreffer" title="DoIt 0.2.10"><i class="far fa-edit fa-fw"></i> DoIt</a>
+        <div class="footer-container"><div class="footer-line">
+                    由 <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.109.0">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer" title="DoIt 0.2.13"><i class="far fa-edit fa-fw"></i> DoIt</a>
                 </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2019 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://blog.cattom.site/" target="_blank" rel="noopener noreferrer">Cat Tom</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+            <div class="footer-line"></div>
+            <div class="footer-line">
+            </div>
         </div></footer></div>
 
     <div id="fixed-buttons"><a href="#back-to-top" id="back-to-top-button" class="fixed-button" title="回到顶部">
@@ -200,9 +212,10 @@
         </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
             <i class="fas fa-comment fa-fw"></i>
         </a>
-    </div><div class="assets"><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/fuse/fuse.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/cookieconsent/cookieconsent.min.js"></script><script type="text/javascript" src="/lib/topbar/topbar.min.js"></script><script type="text/javascript" src="/lib/pjax/pjax.min.js"></script><script type="text/javascript" src="/js/theme.min.js"></script></div>
+    </div><div id="cookieconsent-container"></div><div class="assets"><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/fuse/fuse.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script type="text/javascript" src="/lib/topbar/topbar.min.js"></script><script type="text/javascript" src="/lib/pjax/pjax.min.js"></script><script type="text/javascript" src="/js/theme.min.js" defer></script></div>
 
-<div class="pjax-assets"><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":10},"comment":{},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"distance":100,"findAllMatches":false,"fuseIndexURL":"/index.json","highlightTag":"em","ignoreFieldNorm":false,"ignoreLocation":false,"isCaseSensitive":false,"location":0,"maxResultLength":10,"minMatchCharLength":2,"noResultsFound":"没有找到结果","snippetLength":50,"threshold":0.3,"type":"fuse","useExtendedSearch":false}};</script><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"></div>
+<div class="pjax-assets"><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":10},"comment":{},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"distance":100,"findAllMatches":false,"fuseIndexURL":"/index.json","highlightTag":"em","ignoreFieldNorm":false,"ignoreLocation":false,"isCaseSensitive":false,"location":0,"maxResultLength":10,"minMatchCharLength":2,"noResultsFound":"没有找到结果","snippetLength":50,"threshold":0.3,"type":"fuse","useExtendedSearch":false}};</script><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js" defer></script><script type="text/javascript" src="/lib/katex/auto-render.min.js" defer></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js" defer></script><script type="text/javascript" src="/lib/katex/mhchem.min.js" defer></script><script type="text/javascript" src="/js/katex.min.js" defer></script><script type="text/javascript" src="/js/cookieconsent.min.js" defer></script><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="/lib/katex/copy-tex.min.css">
+        <noscript><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"></noscript></div>
 </body>
 
 </html>

@@ -1,18 +1,5 @@
----
-title: "2022 年度总结 & 2023 目标"
-date: 2022-12-31T17:50:00+08:00
-lastmod: 2022-12-31T17:50:00+08:00
-draft: false
-description: "快乐、困惑、艰难、成长的2022。"
-slug: 2022-summary
-categories:
-  - daily
-tags:
-  - 年度总结
-summary: "快乐、困惑、艰难、成长的2022。"
-lightgallery: true
-twemoji: true
----
+# 2022 年度总结 & 2023 目标
+
 ## 一句话总结 2022
 
 > 快乐、困惑、艰难、成长的2022。
