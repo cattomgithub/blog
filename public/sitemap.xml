@@ -2,13 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://blog.cattom.site/2022-summary/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.cattom.site/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.cattom.site/categories/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.cattom.site/tags/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.cattom.site/posts/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.cattom.site/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.cattom.site/categories/daily/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.cattom.site/2022-summary/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/categories/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/tags/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/posts/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc><lastmod>2022-12-31T17:50:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/categories/daily/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/current-affairs-commentary-2/</loc><lastmod>2022-07-19T20:32:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E5%9B%BD%E9%99%85%E6%94%BF%E6%B2%BB/</loc><lastmod>2022-07-19T20:32:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E6%97%A5%E6%9C%AC/</loc><lastmod>2022-07-19T20:32:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -20,10 +20,9 @@
             <loc>https://blog.cattom.site/a-common-day/</loc><lastmod>2022-01-31T02:35:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E6%97%A5%E8%AE%B0/</loc><lastmod>2022-01-31T02:35:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/disease-after-big-test/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/tags/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/tags/%E7%94%9F%E7%97%85/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/tags/%E7%94%9F%E7%97%85/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/</loc><lastmod>2022-01-25T17:58:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.cattom.site/shuoshuo/</loc><lastmod>2021-08-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/friends/</loc><lastmod>2021-08-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/about/</loc><lastmod>2021-08-14T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/azure/</loc><lastmod>2021-07-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -32,6 +31,7 @@
             <loc>https://blog.cattom.site/tags/%E5%8A%A8%E6%BC%AB/</loc><lastmod>2021-07-18T12:36:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/tags/%E5%B0%8F%E6%9E%97%E5%AE%B6%E7%9A%84%E9%BE%99%E5%A5%B3%E4%BB%86/</loc><lastmod>2021-07-18T12:36:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/miss-kobayashis-dragon-maid/</loc><lastmod>2021-07-18T12:36:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.cattom.site/primary-immune-thrombocytopenia-hospital-diary/</loc><lastmod>2023-01-01T18:05:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/lower-the-temperature/</loc><lastmod>2020-02-16T10:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/rainy-day/</loc><lastmod>2020-02-15T11:41:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.cattom.site/hello-world/</loc><lastmod>2020-02-08T22:28:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

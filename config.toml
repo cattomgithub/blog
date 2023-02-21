@@ -47,11 +47,11 @@ theme = "DoIt"
     title = ""
     weight = 4
    [[menu.main]]
-    identifier = "shuoshuo"
+    identifier = "memos"
     pre = "<i class='fas fa-comment-alt'></i>"
     post = ""
-    name = "说说"
-    url = "/shuoshuo/"
+    name = "碎碎念"
+    url = "https://memos.cattom.site/explore"
     title = ""
     weight = 5
   [[menu.main]]
