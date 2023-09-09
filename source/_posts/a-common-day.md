@@ -1,7 +1,7 @@
 ---
 title: "平凡的一天"
 date: 2022-01-30T19:00:00+08:00
-lastmod: 2022-01-31T02:35:00+08:00
+updated: 2022-01-31T02:35:00+08:00
 draft: false
 description: "这是平凡的一天。"
 slug: a-common-day

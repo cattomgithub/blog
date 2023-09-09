@@ -1,17 +1,12 @@
 ---
 title: "雨还在下..."
-date: 2020-02-15T11:41:00+08:00
-lastmod: 2020-02-15T11:41:00+08:00
-draft: false
-description: "雨还在下..."
-slug: rainy-day
+date: 2020-02-15 19:41:00
+updated: 2020-02-15 19:41:00
+excerpt: "雨还在下..."
 categories:
   - 日常
 tags:
   - 日记
-summary: 随便写写...
-toc:
-  enable: false
 ---
 雨还在下…
 

@@ -1,7 +1,7 @@
 ---
 title: "安倍晋三突然离世给日本政坛带来诸多影响"
 date: 2022-07-19T20:32:24+08:00
-lastmod: 2022-07-19T20:32:24+08:00
+updated: 2022-07-19T20:32:24+08:00
 draft: false
 description: "安倍晋三突然离世给日本政坛带来了诸多影响。"
 slug: current-affairs-commentary-2

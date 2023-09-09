@@ -1,7 +1,7 @@
 ---
 title: "降温！"
 date: 2020-02-16T10:25:00+08:00
-lastmod: 2020-02-16T10:25:00+08:00
+updated: 2020-02-16T10:25:00+08:00
 draft: false
 description: "降温！"
 slug: lower-the-temperature

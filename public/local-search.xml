@@ -4,6 +4,29 @@
   
   
   <entry>
+    <title>Ubuntu 刷新 DNS 缓存 (Ubuntu 22.04)</title>
+    <link href="/2023/09/10/Ubuntu-Flush-DNS-Cache(Ubuntu22.04)/"/>
+    <url>/2023/09/10/Ubuntu-Flush-DNS-Cache(Ubuntu22.04)/</url>
+    
+    <content type="html"><![CDATA[<h2 id="查看-DNS-缓存情况"><a href="#查看-DNS-缓存情况" class="headerlink" title="查看 DNS 缓存情况"></a>查看 DNS 缓存情况</h2><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo resolvectl statistics<br></code></pre></td></tr></table></figure><h2 id="刷新-DNS-缓存"><a href="#刷新-DNS-缓存" class="headerlink" title="刷新 DNS 缓存"></a>刷新 DNS 缓存</h2><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo resolvectl flush-caches<br></code></pre></td></tr></table></figure><h2 id="另：刷新-Chrome-中的-DNS-缓存"><a href="#另：刷新-Chrome-中的-DNS-缓存" class="headerlink" title="另：刷新 Chrome 中的 DNS 缓存"></a>另：刷新 Chrome 中的 DNS 缓存</h2><p>在地址栏中输入 <code>chrome://net-internals/#dns</code> 回车打开</p><p>然后点击 <strong>Clear host cache</strong></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Ubuntu</tag>
+      
+      <tag>DNS</tag>
+      
+      <tag>Linux</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2022 年度总结 &amp; 2023 目标</title>
     <link href="/2022/12/31/2022-summary/"/>
     <url>/2022/12/31/2022-summary/</url>

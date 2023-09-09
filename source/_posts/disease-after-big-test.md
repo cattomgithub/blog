@@ -1,7 +1,7 @@
 ---
 title: "大考前后 必有大病"
 date: 2022-01-25T17:58:57+08:00
-lastmod: 2022-01-25T17:58:57+08:00
+updated: 2022-01-25T17:58:57+08:00
 draft: false
 description: "这是一种从小学开始就萦绕于我之上的神奇现象，至今无解。"
 slug: disease-after-big-test

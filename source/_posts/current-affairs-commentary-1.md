@@ -1,7 +1,7 @@
 ---
 title: "实现社会公平正义道阻且长 ——浅论中国新闻周刊关于明星免笔试进入编制的社论"
 date: 2022-07-13T02:16:41+08:00
-lastmod: 2022-07-13T02:16:41+08:00
+updated: 2022-07-13T02:16:41+08:00
 draft: false
 description: "实现社会公平正义道阻且长。"
 slug: current-affairs-commentary-1
