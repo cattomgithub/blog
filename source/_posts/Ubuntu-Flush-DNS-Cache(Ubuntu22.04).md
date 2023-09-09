@@ -2,6 +2,7 @@
 title: Ubuntu 刷新 DNS 缓存 (Ubuntu 22.04)
 date: 2023-09-10 02:35:01
 tags: [Ubuntu,DNS,Linux]
+excerpt: "本文介绍了 Ubuntu 22.04 刷新 DNS 缓存的方法。"
 ---
 ## 查看 DNS 缓存情况
 
