@@ -1,12 +1,9 @@
 ---
 title: "第一篇文章"
-slug: hello-world
-summary: 这个博客的第一篇文章。
-date: 2020-02-08T22:28:00+08:00
-draft: false
+excerpt: "这个博客的第一篇文章。"
+date: 2020-02-09 00:28:00
 categories: 
- - 日常
-tags: 
+ - 日常 
 ---
 好长一段时间没有使用WordPress了， Gutenberg 编辑器也得到了较大的改善。
 

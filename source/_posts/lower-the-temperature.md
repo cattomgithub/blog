@@ -1,17 +1,12 @@
 ---
 title: "降温！"
-date: 2020-02-16T10:25:00+08:00
-updated: 2020-02-16T10:25:00+08:00
-draft: false
-description: "降温！"
-slug: lower-the-temperature
+date: 2020-02-16 18:25:00
+updated: 2020-02-16 18:25:00
+excerpt: "降温！"
 categories:
   - 日常
 tags:
   - 日记
-summary: 随便写写...
-toc:
-  enable: false
 ---
 纵使屋外寒风凛冽，屋内依然温暖如春。
 

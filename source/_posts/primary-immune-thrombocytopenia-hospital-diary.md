@@ -1,16 +1,13 @@
 ---
 title: "住院日记"
-date: 2021-06-01T18:05:00+08:00
-updated: 2023-01-01T18:05:00+08:00
-draft: false
-description: "五一假期后，我突然发现身体皮肤上出现了不少红点..."
-slug: primary-immune-thrombocytopenia-hospital-diary
+date: 2021-06-02 02:05:00
+updated: 2023-01-02 02:05:00
+excerpt: "五一假期后，我突然发现身体皮肤上出现了不少红点..."
 categories:
   - 日常
 tags:
   - 奇奇怪怪
   - 生病
-summary: "五一假期后，我突然发现身体皮肤上出现了不少红点..."
 ---
 ## 前情提要
 五一假期后，我突然发现身体皮肤上出现了不少红点。

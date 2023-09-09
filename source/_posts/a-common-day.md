@@ -1,16 +1,12 @@
 ---
 title: "平凡的一天"
-date: 2022-01-30T19:00:00+08:00
-updated: 2022-01-31T02:35:00+08:00
-draft: false
-description: "这是平凡的一天。"
-slug: a-common-day
+date: 2022-01-31 03:00:00
+updated: 2022-01-31 10:35:00
+excerpt: "这是平凡的一天。"
 categories:
   - 日常
 tags:
   - 日记
-summary: 这是平凡的一天。
-banner_img: ""
 ---
 ## 一
 

@@ -1,13 +1,12 @@
 ---
 title: 博客又搬家啦！
 date: 2021-07-23
-slug: move-to-azure
 categories:
   - 日常
 tags:
   - 搬家
   - Azure
-summary: 没错，我的博客又搬家了...
+excerpt: "没错，我的博客又搬家了..."
 banner_img: "https://static.cattom.site/image/move-my-blog-8.png?x-oss-process=style/webp"
 ---
 

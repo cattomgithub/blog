@@ -1,17 +1,14 @@
 ---
 title: "大考前后 必有大病"
-date: 2022-01-25T17:58:57+08:00
-updated: 2022-01-25T17:58:57+08:00
-draft: false
-description: "这是一种从小学开始就萦绕于我之上的神奇现象，至今无解。"
-slug: disease-after-big-test
+date: 2022-01-26 01:58:57
+updated: 2022-01-26 01:58:57
+excerpt: "这是一种从小学开始就萦绕于我之上的神奇现象，至今无解。"
 categories:
   - 日常
 tags:
   - 奇奇怪怪
   - 生病
   - 校园生活
-summary: 这是一种从小学开始就萦绕于我之上的神奇现象，至今无解。
 banner_img: "https://static.cattom.site/img/disease-after-big-test.png?x-oss-process=style/webp"
 ---
 大考前后，必有大病。

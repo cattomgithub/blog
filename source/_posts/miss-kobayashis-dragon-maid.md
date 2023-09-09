@@ -1,18 +1,14 @@
 ---
 title: "小林家的龙女仆S开播难"
-date: 2021-07-18T12:36:00+08:00
-updated: 2021-07-18T12:36:00+08:00
-draft: false
-description: "小林家的龙女仆S开播难"
-slug: 
+date: 2021-07-18 20:36:00
+updated: 2021-07-18 20:36:00
+excerpt: "小林家的龙女仆S开播难"
 categories:
   - 日常
 tags:
   - 小林家的龙女仆
   - 动漫
-summary: 小林家的龙女仆S开播难
 banner_img: "https://static.cattom.site/img/miss-kobayashis-dragon-maid.png?x-oss-process=style/webp"
-toc: false
 ---
 昨天看了一下，第1、2话全程高能，估计B站剪都剪不下去
 
